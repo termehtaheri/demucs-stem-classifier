@@ -1,0 +1,10 @@
+[project]
+name = "applied-ml-for-audio"
+version = "0.1.0"
+description = "Demucs-based unsupervised stem classification and ridge-based mix reconstruction."
+authors = [{name = "Termeh Taheri"}]
+readme = "README.md"
+requires-python = ">=3.9"
+
+[tool.setuptools.packages.find]
+where = ["src"]
