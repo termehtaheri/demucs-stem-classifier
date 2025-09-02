@@ -34,7 +34,3 @@ If a file is mostly “vocals-like,” its separated **vocals** track will have 
 - Multi-label tagging via energy ratios  
 - Chunk-wise voting for long stems  
 - Optional tagger cross-check (HTSAT/PANNs)
-
-## License & Attribution
-- Code: MIT (see `LICENSE`)  
-- Demucs: MIT by Meta/FAIR (see `LICENSES/demucs_LICENSE`)
