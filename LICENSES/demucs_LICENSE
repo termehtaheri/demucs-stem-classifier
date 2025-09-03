@@ -1,2 +1,4 @@
-Demucs (Meta/FAIR) is MIT-licensed. See: https://github.com/facebookresearch/demucs
-This repo uses Demucs as a dependency; please refer to the upstream license.
+Demucs is developed by Meta AI / FAIR.
+
+Demucs is licensed under the MIT License.
+See the original repository: https://github.com/facebookresearch/demucs
